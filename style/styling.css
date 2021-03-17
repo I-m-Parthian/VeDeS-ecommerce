@@ -1,0 +1,101 @@
+/* General styling */
+.body{
+    color: #295939;
+    font-family: 'Cormorant Unicase', serif;
+}
+h1{
+    font-family: 'Cormorant Unicase', serif;
+}
+h2{
+    color: #295939;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: #295939;
+}
+h4{
+    font-family: 'Cormorant Unicase', serif;
+    color: #295939;
+}
+p{
+    font-family: 'Cormorant Unicase', serif;
+    color:#537344;
+}
+
+/* designing navbar */
+.navbar-cart{
+    margin-bottom: 2%;
+}
+
+.navbar-all{
+    /* margin: 0 0 4.5rem; */
+    margin-bottom: 5%;
+}
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
+
+/* designing title section for every page */
+.title{
+    margin-bottom: 5%;
+}
+
+.title-text{
+    font-family: 'Dancing Script', cursive;
+    color: #295939;
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.title-image-greens{
+    height: 218px;
+    width: 411px;
+}
+
+/* Styling list and list items */
+.list-heading{
+    text-align: center;
+    padding: 2% 0 4%;
+}
+
+.item-hover:hover{
+    box-shadow: 2px 2px 10px grey;
+}
+
+.box-item:hover{
+    color:#537344;
+}
+
+/* styling cart */
+
+th{
+    color:#295939;
+}
+td{
+    color:#537344;
+}
+.cart-item{
+    display: inline-block;
+    position: relative;
+    top: 1%;
+    color: #537344;
+}
+
+
+.cart-link{
+    font-family: sans-serif;
+    color:#295939;
+}
+
+
+/* styling checkout page */
+.form-input{
+    margin-bottom: 5%;
+    margin-top:3%;
+}
+
+/* footer section syles */
+#footer{
+    background-color: #ebf2ef;
+    padding-bottom: 1%;
+}
